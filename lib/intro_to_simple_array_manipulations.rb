@@ -14,5 +14,5 @@ def shift_with_args(array)
 
 
 def using_shift(array)
-  array.shift(array)
+  my_favorite_cities.shift(array)
 end
