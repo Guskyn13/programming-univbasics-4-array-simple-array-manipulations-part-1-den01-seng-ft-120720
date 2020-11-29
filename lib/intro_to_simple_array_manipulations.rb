@@ -14,5 +14,5 @@ def shift_with_args(array)
 
 
 def using_shift(array)
-  my_favorite_cities.shift(array)
+  @im_so_over_this_city = using_shift(@my_favorite_cities)
 end
